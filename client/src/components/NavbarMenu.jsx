@@ -72,13 +72,13 @@ const NavbarMenu = ({ menuOpen, setMenuOpen }) => {
           className="text-lg sm:text-base font-[400] relative cursor-pointer tracking-[1px] text-myBrown w-fit hover:transform transition-all duration-300"
           href="mailto:"
         >
-          hello@lena
+          hello@leva
         </a>
         <a
           className="text-lg sm:text-base font-[400] relative cursor-pointer tracking-[1px] text-myBrown w-fit hover:transform transition-all duration-300"
           href=""
         >
-          t.me/lena
+          t.me/leva
         </a>
         <div className="text-lg sm:text-[15px] text-myBrown font-outfit flex gap-10 mt-20 sm:mt-8">
           <a
