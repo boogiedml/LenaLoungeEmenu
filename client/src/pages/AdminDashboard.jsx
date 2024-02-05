@@ -79,7 +79,7 @@ const AdminDashboard = () => {
       <Navbar />
       <section className="flex-grow w-full container mx-auto px-5 md:px-0 lg:px-8 pt-14">
         <h1 className="relative w-fit mx-auto text-black text-2xl md:text-3xl lg:text-4xl font-grotesk font-[500] uppercase leading-[1.3] after:w-2 after:h-2 lg:after:w-3 lg:after:h-3 after:bg-black after:absolute after:bottom-2 after:-right-3 lg:after:-right-4">
-          LENA LOUNGE
+          LEVA LOUNGE
         </h1>
         <div className="mt-4">
           <h3 className="text-base lg:text-xl font-[500] font-nunito text-myGold">
