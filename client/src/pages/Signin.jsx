@@ -61,7 +61,7 @@ const Signin = () => {
       <section className="w-full flex-grow container mx-auto px-5 md:px-0 lg:px-8 flex items-center justify-center">
         <div className="w-[100%] sm:w-[90%] md:w-[500px] bg-myBrown text-white py-5">
           <h1 className="relative w-fit mx-auto text-xl md:text-2xl lg:text-3xl font-[500] uppercase leading-[1.3] after:w-1 after:h-1 lg:after:w-2 lg:after:h-2 after:bg-white after:absolute after:bottom-2 after:-right-2 lg:after:-right-3">
-            LENA LOUNGE
+            LEVA LOUNGE
           </h1>
           <div className="mt-4 bg-myGold bg-opacity-40 p-4 pb-0">
             <h3 className="text-base lg:text-lg mb-3">Sign In</h3>
