@@ -14,7 +14,7 @@ const SearchBox = ({ setSearchQuery }) => {
     <div className="max-w-lg mx-auto relative mt-5">
       <input
         type="text"
-        className="w-full py-2 md:py-3 px-6 pr-10 text-base outline-none bg-myGold bg-opacity-40 text-black placeholder:text-black"
+        className="w-full py-2 md:py-3 px-6 pr-10 text-base outline-none border border-[1px] border-[rgb(255 255 255)] bg-opacity-40 text-black placeholder:text-black"
         placeholder="Search"
         value={inputValue}
         onChange={handleInputChange}
